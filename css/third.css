@@ -1,0 +1,30 @@
+.secondcard {
+    text-align: center;
+    color:red;
+    padding-bottom: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    padding: 2%;
+    display: grid;
+}
+
+.socialmedia {
+    display: grid;
+    padding-top: 20px;
+}
+.indexpageNav {
+display: inline-block;
+text-align: right;
+}
+.card {
+    text-align: center;
+}
+.blogHeader {
+display: inline-block;
+text-align: right;
+}

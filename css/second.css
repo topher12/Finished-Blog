@@ -1,0 +1,25 @@
+.socialsection {
+    display: block;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+.avatar {
+    width: 45%;
+    height: 50%;
+
+}
+
+.author {
+    padding: 2%;
+    display: grid;
+    border-style: solid;
+}
+.firstcard {
+    text-align: center;
+    padding: 5%;
+    color:green;
+}
