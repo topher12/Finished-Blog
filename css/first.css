@@ -1,0 +1,43 @@
+h3 {
+    color: palegreen;
+}
+
+ul {
+    color: orange;
+    list-style: none;
+    display: flex;
+}
+
+p {
+    color: brown;
+}
+
+footer {
+    color: purple;
+    font-size: 22px
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    padding: 5%;
+    display: grid;
+}
+
+.socialmedia {
+    text-align: center;
+    display: flex;
+    padding-top: 20px;
+    border: white   ;
+    border-style: dashed;
+}
+
+.pic {
+    text-align: center;
+    margin:auto;
+}
+body {
+    background-color:coral
+}
